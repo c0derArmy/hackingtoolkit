@@ -89,7 +89,7 @@ This tool is designed for security professionals, ethical hackers, and penetrati
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/hackingtool-shell.git
+git clone https://github.com/c0derArmy/hackingtool-shell.git
 cd hackingtool-shell
 chmod +x install.sh
 sudo ./install.sh
@@ -151,12 +151,6 @@ Contributions welcome:
 
 This project is licensed under the MIT License.
 
-## Credits
-
-- Original HackingTool by Z4nzu
-- All open-source tool developers
-- Security research community
-
 ## Support
 
 - GitHub Issues for bug reports
@@ -170,8 +164,7 @@ Use only on authorized systems. Unauthorized access is ILLEGAL.
 
 ## Changelog
 
-### Version 1.1.0
-- Removed all emojis for professional appearance
+### Version 1.1.2
 - Added Advanced Exploitation Tools category
 - Added Cloud Security Tools category
 - 20+ new advanced tools added
